@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toyiraliyev11-web.github.io/sitemap.xml
